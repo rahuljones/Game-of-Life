@@ -1,1 +1,1 @@
-#game of life
+Game of Life simulator created with C
